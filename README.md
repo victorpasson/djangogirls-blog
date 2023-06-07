@@ -4,6 +4,9 @@ Repositório que contém o código para a criação do projeto Blog do site Djan
 
 [![Page Blog Project](https://i.ibb.co/gmfgmGk/Dja.png)](https://victorpasson.pythonanywhere.com)
 
+## Youtube Vídeo
+Um breve vídeo de demonstração do resultado foi feito e hospedado no [YouTube](https://youtu.be/IAjkvZnBut0).
+
 ## Página do Projeto
 
 O projeto foi disponibilizado para visualização, Deploy em [Python Anywhere](https://victorpasson.pythonanywhere.com).
