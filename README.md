@@ -2,7 +2,7 @@
 
 Repositório que contém o código para a criação do projeto Blog do site Django Girls. O objetivo principal é a formulação de um blog pessoal onde o usuário administrador possa criar e editar posts.
 
-[![Page Blog Project](https://uploaddeimagens.com.br/images/004/498/749/full/Dja.png?1686161749)](https://victorpasson.pythonanywhere.com)
+[![Page Blog Project](https://uploaddeimagens.com.br/images/004/498/754/full/Dja.png?1686161946)](https://victorpasson.pythonanywhere.com)
 
 ## Youtube Vídeo
 Um breve vídeo de demonstração do resultado foi feito e hospedado no [YouTube](https://youtu.be/IAjkvZnBut0).
