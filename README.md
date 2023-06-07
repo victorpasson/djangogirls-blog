@@ -16,7 +16,7 @@ O projeto foi disponibilizado para visualização, Deploy em [Python Anywhere](h
 Criação de um **blog** com:
 
 1. Visão dos posts para o visitante;
-2. Visão de adição e esdição de post para o administrador;
+2. Visão de adição e edição de posts para o administrador;
 3. Ao clicar no post é direcionado a pagina específica daquele post;
 4. Administrador pode editar o post através da página;
 5. Administrador pode adicionar um novo post através da aplicação.
